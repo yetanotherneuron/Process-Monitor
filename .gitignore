@@ -1,0 +1,27 @@
+# Build and generated files
+build/
+**/build/
+tests/
+Release/
+Debug/
+*.user
+*.suo
+*.vcxproj.user
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.ilk
+*.log
+
+# Local editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Keep source, docs, and resources tracked
+!source/
+!resources/
+!README.md
+!CMakeLists.txt
